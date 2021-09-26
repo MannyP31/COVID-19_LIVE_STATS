@@ -9,5 +9,5 @@ Project is divided into two tiers based on it's working :
 | Tier | The Working Structure                                                                                                                                               |
 | :--: | --------------------- |
 |  1   | The frontend part using HTML and CSS where it will just focus on the User Interference showing country name , death cases , recovery etc |                          |
-|  2   | The backend part using Javascript and using Geoplugin API |
+|  2   | The backend part using Javascript and fetching realtime data using Geoplugin API |
 
